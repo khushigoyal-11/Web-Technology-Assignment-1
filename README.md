@@ -1,13 +1,24 @@
-# MAIT Quiz: History & Courses
+🏫 MAIT Quiz: History & Courses
+An interactive web-based quiz application that tests users on their knowledge of Maharaja Agrasen Institute of Technology (MAIT) — including its history, academic programs, and campus culture. Built using HTML5, CSS3, and JavaScript, this quiz is fast, fun, and fully responsive!
 
-An interactive web-based quiz application that tests users on their knowledge of Maharaja Agrasen Institute of Technology (MAIT) — its history, programs, and campus life. Built with **HTML5**, **CSS3**, and **JavaScript**, this quiz provides instant feedback, a timer per question, randomized questions, and a progress bar, all wrapped in a modern, responsive layout.
+🎯 Features
+✅ 10 Randomized Questions
+Each quiz session generates a unique sequence of multiple-choice questions related to MAIT.
 
-## Features
+⚡ Instant Feedback
+See whether your selected answer is correct immediately, with visual cues and highlighting.
 
-- **10 randomized questions** about MAIT’s history and courses
-- **Instant feedback** on each answer (Correct/Wrong)
-- **30-second timer** per question
-- **Progress bar** showing quiz advancement
-- **Responsive design** for desktop and mobile
-- **Dark teal & coral color scheme** with hover and selection animations
-- **Retake option** at the end
+⏱️ Per-Question Timer
+Each question must be answered within 30 seconds to keep the pace engaging.
+
+📊 Progress Bar
+Live visual tracker that reflects how many questions you've completed.
+
+🔁 Quiz Retake Option
+Option to start over and improve your score once the quiz ends.
+
+📱 Responsive UI
+Works seamlessly across mobile phones, tablets, and desktops.
+
+🎨 Stylish Design
+Clean modern layout with a dark teal & coral color palette, hover effects, and animated transitions.
